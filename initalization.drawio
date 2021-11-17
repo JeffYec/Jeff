@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T09:27:00.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="sxNjVxpesvOvUE9q1He_" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T09:29:39.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-zIHh9PnGEgLzZlEBgbT" version="15.7.0" type="github">
   <diagram id="F3S5QaNviVKwhImFeugm" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,35 +46,26 @@
             <mxPoint x="600" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Cm0ka7NUujiJoH0r2gA-19" value="3、模组查询MCU版本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="8Cm0ka7NUujiJoH0r2gA-19" value="3、模组查询MCU产品信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="342" y="267" width="178" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8Cm0ka7NUujiJoH0r2gA-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="594" y="337" as="sourcePoint" />
-            <mxPoint x="260" y="337" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8Cm0ka7NUujiJoH0r2gA-21" value="4、MCU回复版本号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="334" y="305" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Cm0ka7NUujiJoH0r2gA-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="262" y="373" as="sourcePoint" />
-            <mxPoint x="597" y="373" as="targetPoint" />
+            <mxPoint x="263.5" y="361" as="sourcePoint" />
+            <mxPoint x="598.5" y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Cm0ka7NUujiJoH0r2gA-23" value="5、模组获取MCU 工作方式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="325" y="339" width="201" height="30" as="geometry" />
+        <mxCell id="8Cm0ka7NUujiJoH0r2gA-23" value="4、模组获取MCU 工作方式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="326.5" y="319" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Cm0ka7NUujiJoH0r2gA-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="597" y="425" as="sourcePoint" />
-            <mxPoint x="261" y="425" as="targetPoint" />
+            <mxPoint x="597" y="416" as="sourcePoint" />
+            <mxPoint x="261" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8Cm0ka7NUujiJoH0r2gA-25" value="6、MCU发送工作状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="342" y="385" width="161" height="30" as="geometry" />
+          <mxGeometry x="346.5" y="377" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Cm0ka7NUujiJoH0r2gA-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
