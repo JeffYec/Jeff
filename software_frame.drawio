@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T10:59:38.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5RpefCrQn2-mHxqQTJ1c" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T01:56:58.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="rHKx_PjEUM4IKp5-iEyy" version="15.9.6" type="github">
   <diagram id="e0S0KMFUmdlwxClqiNv_" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,14 +93,45 @@
         <mxCell id="z1TjB76CUiSKSzIocQRG-33" value="调节档位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="376.5" y="281" width="58" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-34" target="z1TjB76CUiSKSzIocQRG-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="319" />
+              <mxPoint x="514" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-34" value="目标温度切换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="491" y="281" width="58" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-35" target="z1TjB76CUiSKSzIocQRG-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="318" />
+              <mxPoint x="607" y="365" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-35" value="具体目标温度设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="566" y="280" width="58" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-36" target="z1TjB76CUiSKSzIocQRG-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-36" value="定时设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="641" y="280" width="58" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-37" target="z1TjB76CUiSKSzIocQRG-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="758" y="338" />
+              <mxPoint x="758" y="365" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-37" value="定时任务取消" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="715" y="280" width="58" height="38" as="geometry" />
@@ -127,7 +158,43 @@
           <mxGeometry x="724" y="239" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="178" y="97" width="610" height="258" as="geometry" />
+          <mxGeometry x="243" y="646" width="610" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-57" value="工作模式DP下发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="553" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-58" target="z1TjB76CUiSKSzIocQRG-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="361" y="372" />
+              <mxPoint x="361" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-58" value="档位DP下发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="355" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-59" target="z1TjB76CUiSKSzIocQRG-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="106" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-59" value="开关DP下发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="285" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-60" value="目标温度DP下发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="423" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-61" value="倒计时DP下发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="488" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-68" value="温度设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="534" y="346" width="58" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-69" value="定时设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="685" y="346" width="58" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
