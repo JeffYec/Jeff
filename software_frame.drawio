@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T03:07:47.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bpfE6V94txaxBCXxR1wH" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T03:50:45.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="p6v4vbVMtj04UT88el_5" version="15.9.6" type="github">
   <diagram id="e0S0KMFUmdlwxClqiNv_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,10 +89,27 @@
             <mxPoint x="494.5" y="237" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-13" target="z1TjB76CUiSKSzIocQRG-91">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z1TjB76CUiSKSzIocQRG-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494.5" y="153" as="sourcePoint" />
+            <mxPoint x="574.5" y="175.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="495" y="164" />
+              <mxPoint x="575" y="164" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-13" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z1TjB76CUiSKSzIocQRG-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494.5" y="152" as="sourcePoint" />
+            <mxPoint x="409" y="176" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="495" y="164" />
+              <mxPoint x="409" y="164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-13" value="上电" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="460" y="102" width="69" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-24" value="开关机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -169,7 +186,7 @@
           <mxGeometry x="724" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="172" y="605" width="616" height="270" as="geometry" />
+          <mxGeometry x="186.5" y="230" width="616" height="277" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeColor=#66FF66;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-57" target="z1TjB76CUiSKSzIocQRG-81">
           <mxGeometry relative="1" as="geometry" />
@@ -248,10 +265,26 @@
         <mxCell id="z1TjB76CUiSKSzIocQRG-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-91">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="497" y="238" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="409" y="225" />
+              <mxPoint x="497" y="225" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-91" value="蜂鸣器(长鸣3s)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="468" y="171" width="58" height="38" as="geometry" />
+          <mxGeometry x="380" y="175" width="58" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="238" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="225" />
+              <mxPoint x="497" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-99" value="电源指示灯（常亮）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="173.5" width="63" height="44.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
