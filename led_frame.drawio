@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T07:07:23.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9q2uMTOy99i5BEGBp5KO" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T08:01:01.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qaBOP-mzx6UwOu2mut9q" version="15.9.6" type="github">
   <diagram id="7bYu3S5xshXxI2PsXWl_" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---1" value="开关机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-217" y="60" width="58" height="38" as="geometry" />
+          <mxGeometry x="-359" y="62" width="58" height="38" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---5" target="s2p4G6TEXcPG5f_NmB---18">
           <mxGeometry relative="1" as="geometry" />
@@ -128,14 +128,27 @@
         <mxCell id="s2p4G6TEXcPG5f_NmB---29" value="切换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="313" y="165" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---30" target="s2p4G6TEXcPG5f_NmB---41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s2p4G6TEXcPG5f_NmB---43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="66.5" y="601" as="sourcePoint" />
+            <mxPoint x="161" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="67" y="628" />
+              <mxPoint x="161" y="628" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---30" value="温度指示灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="552" width="63" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---32" target="s2p4G6TEXcPG5f_NmB---41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s2p4G6TEXcPG5f_NmB---44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="161" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="261" y="627" />
+              <mxPoint x="161" y="627" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---32" value="℃指示灯（常亮）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="551" width="63" height="41" as="geometry" />
@@ -152,34 +165,40 @@
         <mxCell id="s2p4G6TEXcPG5f_NmB---40" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="86" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---41">
+        <mxCell id="s2p4G6TEXcPG5f_NmB---54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="161.5" y="722" as="targetPoint" />
+            <mxPoint x="162" y="674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---41" value="5s没有按键操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="639" width="108" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---50" target="s2p4G6TEXcPG5f_NmB---41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---50" value="断码屏显示温度值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s2p4G6TEXcPG5f_NmB---50" value="断码屏闪烁显示温度值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="552" width="63" height="41" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---51" target="s2p4G6TEXcPG5f_NmB---114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---51" value="断码屏显示定时时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s2p4G6TEXcPG5f_NmB---51" value="断码屏闪烁显示定时时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="126" width="63" height="41" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---55" target="s2p4G6TEXcPG5f_NmB---114">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="529" y="196" />
+              <mxPoint x="622" y="196" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---55" value="定时指示灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="497" y="126" width="63" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---56" target="s2p4G6TEXcPG5f_NmB---114">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s2p4G6TEXcPG5f_NmB---117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="713.5" y="166" as="sourcePoint" />
+            <mxPoint x="622" y="243" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="714" y="196" />
+              <mxPoint x="622" y="196" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---56" value="H单位指示灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="682" y="126" width="63" height="41" as="geometry" />
@@ -194,22 +213,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---61" value="开机" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="126" width="94" height="37" as="geometry" />
+          <mxGeometry x="-377" y="128" width="94" height="37" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---64" value="定时指示灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-276" y="207" width="56" height="41" as="geometry" />
+          <mxGeometry x="-418" y="209" width="56" height="41" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---66" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-254" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="-396" y="162" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---67" value="断码屏温度显示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-168" y="207" width="56" height="41" as="geometry" />
+          <mxGeometry x="-310" y="209" width="56" height="41" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---69" value="℃灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-104" y="207" width="56" height="41" as="geometry" />
+          <mxGeometry x="-246" y="209" width="56" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="s2p4G6TEXcPG5f_NmB---129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---73" target="s2p4G6TEXcPG5f_NmB---127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-332" y="188" />
+              <mxPoint x="-148" y="188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2p4G6TEXcPG5f_NmB---130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---73" target="s2p4G6TEXcPG5f_NmB---128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-332" y="189" />
+              <mxPoint x="-68" y="189" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---73" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="-332" y="162" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="s2p4G6TEXcPG5f_NmB---75">
           <mxGeometry relative="1" as="geometry">
@@ -307,8 +342,8 @@
         <mxCell id="s2p4G6TEXcPG5f_NmB---110" value="档位DP上报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="288" y="289" width="67" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---114" value="定时时长DP上报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="588" y="216" width="67" height="32" as="geometry" />
+        <mxCell id="s2p4G6TEXcPG5f_NmB---114" value="断码屏切回温度显示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="588" y="243" width="67" height="32" as="geometry" />
         </mxCell>
         <mxCell id="s2p4G6TEXcPG5f_NmB---120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="s2p4G6TEXcPG5f_NmB---118">
           <mxGeometry relative="1" as="geometry">
@@ -321,8 +356,20 @@
         <mxCell id="s2p4G6TEXcPG5f_NmB---121" value="重新上电" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="676" y="718" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s2p4G6TEXcPG5f_NmB---122" value="设置成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="170" y="683" width="60" height="30" as="geometry" />
+        <mxCell id="s2p4G6TEXcPG5f_NmB---122" value="5s内无操作设置成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="251" y="628" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s2p4G6TEXcPG5f_NmB---125" value="2s内无按键操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="627" y="202" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s2p4G6TEXcPG5f_NmB---126" value="℃指示灯常亮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="684" y="243" width="67" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="s2p4G6TEXcPG5f_NmB---127" value="温度指示灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-179" y="209" width="63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="s2p4G6TEXcPG5f_NmB---128" value="档位指示灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="212" width="63" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
