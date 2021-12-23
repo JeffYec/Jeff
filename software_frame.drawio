@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T13:57:10.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WksnFW5nlvjx_ERSow1R" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T01:59:41.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="B-0PGK2ow40Df8M3L2Q7" version="15.9.6" type="github">
   <diagram id="e0S0KMFUmdlwxClqiNv_" name="Page-1">
-    <mxGraphModel dx="2031" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,7 +281,7 @@
         <mxCell id="z1TjB76CUiSKSzIocQRG-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-109" target="z1TjB76CUiSKSzIocQRG-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-109" value="配网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z1TjB76CUiSKSzIocQRG-109" value="AP配网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1425" y="236.5" width="58" height="38" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-111" target="z1TjB76CUiSKSzIocQRG-114">
@@ -378,7 +378,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-137" value="&lt;font style=&quot;font-size: 14px&quot;&gt;电源键&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="z1TjB76CUiSKSzIocQRG-137" value="&lt;font style=&quot;font-size: 14px&quot;&gt;开关键&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1334" y="150" width="75" height="38" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-138" value="低中高档位指示灯常亮" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -740,6 +740,21 @@
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-246" value="目标温度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="1546" width="75" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-249" value="长按" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="666" y="-128" width="75" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-250" value="短按" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-128" width="75" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-251" value="闪烁" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1318" y="93" width="75" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-252" value="长亮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1193" y="93" width="75" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z1TjB76CUiSKSzIocQRG-253" value="长灭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1433.5" y="93" width="75" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
