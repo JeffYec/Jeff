@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T01:59:41.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="B-0PGK2ow40Df8M3L2Q7" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T02:01:07.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7Ma365oYQ1SmQeWmzAvo" version="15.9.6" type="github">
   <diagram id="e0S0KMFUmdlwxClqiNv_" name="Page-1">
     <mxGraphModel dx="2031" dy="2258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,13 +281,13 @@
         <mxCell id="z1TjB76CUiSKSzIocQRG-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-109" target="z1TjB76CUiSKSzIocQRG-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-109" value="AP配网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z1TjB76CUiSKSzIocQRG-109" value="配网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1425" y="236.5" width="58" height="38" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-111" target="z1TjB76CUiSKSzIocQRG-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-111" value="wifi指示灯闪烁" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z1TjB76CUiSKSzIocQRG-111" value="配网指示灯闪烁" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1422.5" y="297.5" width="63" height="41" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.413;entryY=0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-114" target="z1TjB76CUiSKSzIocQRG-116">
