@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T03:01:25.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RnQ_mM5n-5sdPNGKO315" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T03:02:04.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RAcccIc_jLQKiHfTGKR7" version="15.9.6" type="github">
   <diagram id="e0S0KMFUmdlwxClqiNv_" name="Page-1">
     <mxGraphModel dx="2031" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
         <mxCell id="z1TjB76CUiSKSzIocQRG-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-91" target="z1TjB76CUiSKSzIocQRG-370">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-91" value="蜂鸣器(长鸣3s)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z1TjB76CUiSKSzIocQRG-91" value="蜂鸣器(长鸣3s)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="405.86" y="237.25" width="58" height="38" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
@@ -257,7 +257,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1TjB76CUiSKSzIocQRG-99" value="电源指示灯（常亮）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z1TjB76CUiSKSzIocQRG-99" value="电源指示灯（常亮）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="521.86" y="240" width="63" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=24;fontColor=#000000;startArrow=classic;startFill=1;strokeColor=#66FF66;strokeWidth=3;" edge="1" parent="1" source="z1TjB76CUiSKSzIocQRG-104" target="z1TjB76CUiSKSzIocQRG-68">
@@ -649,7 +649,7 @@
           <mxGeometry x="723.86" y="609.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-206" value="&lt;font color=&quot;#00cccc&quot;&gt;&lt;b&gt;指示灯、断码屏、继电器、蜂鸣器、温度传感等逻辑处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#0000FF;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="867.9300000000001" y="305" width="233.64" height="30" as="geometry" />
+          <mxGeometry x="1306.42" y="304" width="233.64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1TjB76CUiSKSzIocQRG-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66FF66;labelBorderColor=#66FF66;fontSize=24;fontColor=#FF0000;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
