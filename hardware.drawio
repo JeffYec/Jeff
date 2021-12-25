@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T11:44:11.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="S0lXVPtMMSEmecacfWoW" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T01:51:44.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GQsb8tZWvy8TQqYP6arH" version="15.9.6" type="github">
   <diagram id="Vgfz-gdBaDkI7XahHWoh" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,20 +46,20 @@
             <mxPoint x="398.5" y="182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="270" y="116" width="258" height="109" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-30" value="开关灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="168" y="424" width="81" height="34" as="geometry" />
+          <mxGeometry x="168" y="432" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-31" value="档位灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="262.5" y="424" width="81" height="34" as="geometry" />
+          <mxGeometry x="262.5" y="432" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-32" value="温度灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="424" width="81" height="34" as="geometry" />
+          <mxGeometry x="357.5" y="432" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-33" value="定时灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="424" width="81" height="34" as="geometry" />
+          <mxGeometry x="452.5" y="432" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T0S8Lt8zlhyl-Dq2tP5w-34" target="T0S8Lt8zlhyl-Dq2tP5w-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -68,22 +68,22 @@
           <mxGeometry x="568" y="300" width="87" height="38" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-35" value="℃单位灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="168" y="480" width="81" height="34" as="geometry" />
+          <mxGeometry x="168" y="488" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-36" value="h单位灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="262.5" y="480" width="81" height="34" as="geometry" />
+          <mxGeometry x="262.5" y="488" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-37" value="wifi指示灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="548" y="424" width="81" height="34" as="geometry" />
+          <mxGeometry x="548" y="432" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-39" value="低档位灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="358" y="480" width="81" height="34" as="geometry" />
+          <mxGeometry x="358" y="488" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-40" value="中档位灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="480" width="81" height="34" as="geometry" />
+          <mxGeometry x="452.5" y="488" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-41" value="高档位灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="548" y="480" width="81" height="34" as="geometry" />
+          <mxGeometry x="548" y="488" width="81" height="34" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T0S8Lt8zlhyl-Dq2tP5w-43" target="T0S8Lt8zlhyl-Dq2tP5w-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -91,20 +91,20 @@
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-43" value="电源板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="299.5" width="88" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="157" y="412" width="483" height="113" as="geometry" />
+        <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="158" y="421" width="483" height="113" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-54" value="继电器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="568" y="244" width="88" height="39" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-74" value="input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="414" y="225" width="60" height="30" as="geometry" />
+          <mxGeometry x="401" y="231" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-76" value="input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="516" y="293" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-77" value="output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="383" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="401" y="378" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-82" value="output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="512" y="244" width="60" height="30" as="geometry" />
@@ -114,6 +114,12 @@
         </mxCell>
         <mxCell id="T0S8Lt8zlhyl-Dq2tP5w-85" value="input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="222" y="293" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4bvEgC0wGC0Dq3-qGVQ-2" value="按键" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="369" y="86" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4bvEgC0wGC0Dq3-qGVQ-3" value="功能指示灯" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="348" y="542" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
