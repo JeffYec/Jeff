@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T03:50:43.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="J2mpLqMoF9HxNSj9gYrK" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T06:12:11.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CI5juMMD-4Dvo9k4kfnz" version="16.1.0" type="github">
   <diagram id="3BnJx1z64_xSoNDAaUZk" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,25 @@
           <mxGeometry x="357" y="137" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-2" value="wd数据读取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="220" width="71" height="34" as="geometry" />
+          <mxGeometry x="357" y="256" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-3" value="继电器初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="303" width="71" height="34" as="geometry" />
+          <mxGeometry x="357" y="312" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-4" value="断码屏和LED初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="362" width="71" height="34" as="geometry" />
+          <mxGeometry x="357" y="368" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-5" value="温度传感初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="421" width="71" height="34" as="geometry" />
+          <mxGeometry x="357" y="424" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-6" value="蜂鸣器初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="480" width="71" height="34" as="geometry" />
+          <mxGeometry x="357" y="481" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-7" value="倒计时初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="548" width="71" height="34" as="geometry" />
+          <mxGeometry x="360" y="538" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-9" value="tuya_iot_sdk初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="197" width="71" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
