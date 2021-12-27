@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T09:08:27.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="t7VVFpWow-BDHd1g0nVH" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T09:35:26.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="abn1MKmnnsw5c0_vSCcl" version="16.1.0" type="github">
   <diagram id="3BnJx1z64_xSoNDAaUZk" name="Page-1">
-    <mxGraphModel dx="2188" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YotC0mz9Mo86BZKjXIZa-57" value="温度正常" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="308" y="419" width="80" height="31" as="geometry" />
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-57" value="当前温度正常" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="419" width="89" height="31" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="YotC0mz9Mo86BZKjXIZa-58" target="YotC0mz9Mo86BZKjXIZa-40">
           <mxGeometry relative="1" as="geometry" />
@@ -121,8 +121,8 @@
         <mxCell id="YotC0mz9Mo86BZKjXIZa-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="YotC0mz9Mo86BZKjXIZa-58" target="YotC0mz9Mo86BZKjXIZa-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YotC0mz9Mo86BZKjXIZa-58" value="温度正常" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="81" y="411" width="80" height="31" as="geometry" />
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-58" value="当前温度正常" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75.5" y="411" width="91" height="31" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-63" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="56" y="435" width="60" height="30" as="geometry" />
@@ -160,7 +160,7 @@
         <mxCell id="YotC0mz9Mo86BZKjXIZa-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="YotC0mz9Mo86BZKjXIZa-72" target="YotC0mz9Mo86BZKjXIZa-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YotC0mz9Mo86BZKjXIZa-72" value="温度获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-72" value="正常温度获取" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="423" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-85" value="蜂鸣器长鸣3s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -201,7 +201,7 @@
         <mxCell id="YotC0mz9Mo86BZKjXIZa-97" value="自动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="463" y="531" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YotC0mz9Mo86BZKjXIZa-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1">
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#66FF66;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480.99999999999955" y="630.9999999999998" as="sourcePoint" />
             <mxPoint x="231" y="691.5" as="targetPoint" />
@@ -218,19 +218,30 @@
         <mxCell id="YotC0mz9Mo86BZKjXIZa-100" value="达到目标温度" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="432" y="581" width="98" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YotC0mz9Mo86BZKjXIZa-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="YotC0mz9Mo86BZKjXIZa-124" target="YotC0mz9Mo86BZKjXIZa-72">
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66FF66;" edge="1" parent="1" source="YotC0mz9Mo86BZKjXIZa-124">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="684" as="sourcePoint" />
+            <mxPoint x="525" y="376" as="targetPoint" />
             <Array as="points">
               <mxPoint x="374" y="684" />
               <mxPoint x="374" y="564" />
               <mxPoint x="447" y="564" />
-              <mxPoint x="447" y="448" />
+              <mxPoint x="447" y="376" />
+              <mxPoint x="525" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-108" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="409" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="YotC0mz9Mo86BZKjXIZa-115" target="YotC0mz9Mo86BZKjXIZa-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="645" />
+              <mxPoint x="685" y="645" />
+              <mxPoint x="685" y="373" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-115" value="保持继电器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="587" y="591" width="71" height="34" as="geometry" />
@@ -249,6 +260,9 @@
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-131" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="366" y="442" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-136" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="625" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
