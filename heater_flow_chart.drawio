@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T09:02:35.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="A7TQ_snnj1sz8osa1BKC" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T09:03:29.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="u-ziJnyuMgtzpG6qp45j" version="16.1.0" type="github">
   <diagram id="3BnJx1z64_xSoNDAaUZk" name="Page-1">
     <mxGraphModel dx="1203" dy="618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
         <mxCell id="YotC0mz9Mo86BZKjXIZa-117" value="手动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="581" y="531" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YotC0mz9Mo86BZKjXIZa-119" value="保持继电器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-119" value="保持设置档位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="502" y="670" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="YotC0mz9Mo86BZKjXIZa-124" target="YotC0mz9Mo86BZKjXIZa-86">
