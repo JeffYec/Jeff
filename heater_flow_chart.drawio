@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T06:12:11.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CI5juMMD-4Dvo9k4kfnz" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T06:49:02.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9B8nj2rPVqPPJDVNGRcU" version="16.1.0" type="github">
   <diagram id="3BnJx1z64_xSoNDAaUZk" name="Page-1">
     <mxGraphModel dx="782" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,19 @@
           <mxGeometry x="357" y="481" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-7" value="倒计时初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="538" width="71" height="34" as="geometry" />
+          <mxGeometry x="357" y="538" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YotC0mz9Mo86BZKjXIZa-9" value="tuya_iot_sdk初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="197" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-10" value="断码屏和LED显示线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="602" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-11" value="按键线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="602" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YotC0mz9Mo86BZKjXIZa-12" value="温度传感器线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="602" width="71" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
