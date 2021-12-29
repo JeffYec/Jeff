@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T08:28:28.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dfS4kLV_7IpZpUDxrp5r" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T08:29:48.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MVlejn1IbnA7e_HhsayF" version="16.1.0" type="github">
   <diagram id="0DxkU44QRCLPnqdfYfsU" name="Page-1">
     <mxGraphModel dx="1497" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-87" value="事件响应状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="447" width="71" height="34" as="geometry" />
+          <mxGeometry x="297" y="444" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-101" value="异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="468" y="493" width="60" height="30" as="geometry" />
