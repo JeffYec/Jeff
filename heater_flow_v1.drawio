@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T06:18:27.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="9L3UknPICT0pN4Ek2ZQx" type="github"><diagram id="0DxkU44QRCLPnqdfYfsU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-29T06:35:43.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CmBZV5-jEh-9qqIqj33W" version="16.1.0" type="github">
+  <diagram id="0DxkU44QRCLPnqdfYfsU" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-2" target="Le-07MOkWK7ZcGVVl3ep-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-2" value="上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="96" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-4" value="继电器初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="266" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-5" value="断码屏和LED初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="266" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-6" value="温度传感初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="314" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-7" value="蜂鸣器初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="314" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-9" target="Le-07MOkWK7ZcGVVl3ep-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-9" value="tuya_iot_sdk初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="180" width="71.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-16" value="硬件初始化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="222" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="336" y="252" width="197" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-42" value="蜂鸣器长鸣3s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467" y="146" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
