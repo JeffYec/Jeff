@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T08:24:02.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2iueIZz9Y4AvX0cHa9kf" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T08:28:28.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dfS4kLV_7IpZpUDxrp5r" version="16.1.0" type="github">
   <diagram id="0DxkU44QRCLPnqdfYfsU" name="Page-1">
     <mxGraphModel dx="1497" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,52 +10,38 @@
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-2" value="上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399.5" y="120" width="72.5" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-4" value="继电器初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486.5" y="273" width="71" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-5" value="断码屏和LED初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="273" width="71" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-6" value="温度传感初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318.5" y="321" width="71" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-7" value="蜂鸣器初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="321" width="71" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-9" target="Le-07MOkWK7ZcGVVl3ep-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435.526315789474" y="259" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-9" value="tuya_iot_sdk初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="191" width="71.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-16" value="硬件初始化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="275" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-21" target="Le-07MOkWK7ZcGVVl3ep-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="259" width="274" height="115" as="geometry" />
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Le-07MOkWK7ZcGVVl3ep-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435.5" y="292" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-42" value="蜂鸣器长鸣3s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="468" y="159" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-77" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399.5" y="715" width="71" height="34" as="geometry" />
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-77" value="重新上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="628" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-78">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="436" y="484" as="targetPoint" />
+            <mxPoint x="436" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-78" value="应用功能初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="407" width="71" height="34" as="geometry" />
+          <mxGeometry x="400" y="325" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-84" target="Le-07MOkWK7ZcGVVl3ep-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-84" value="事件处理线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400.5" y="484" width="71" height="34" as="geometry" />
+          <mxGeometry x="400.5" y="402" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-86" target="Le-07MOkWK7ZcGVVl3ep-87">
           <mxGeometry relative="1" as="geometry" />
@@ -64,31 +50,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-86" value="温度获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="546" width="71" height="34" as="geometry" />
+          <mxGeometry x="399" y="464" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-87" target="Le-07MOkWK7ZcGVVl3ep-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-87" value="事件响应状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="529" width="71" height="34" as="geometry" />
+          <mxGeometry x="286" y="447" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-101" value="异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="602" width="60" height="30" as="geometry" />
+          <mxGeometry x="468" y="493" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-107" value="正常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="334.5" y="602" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="495" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-109" target="Le-07MOkWK7ZcGVVl3ep-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-109" value="按键失效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399.5" y="632" width="71" height="34" as="geometry" />
+          <mxGeometry x="472" y="538" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-113" value="蜂鸣器长鸣10s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="675" width="60" height="30" as="geometry" />
+          <mxGeometry x="510.5" y="578" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-118" value="按键初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486.5" y="321" width="71" height="34" as="geometry" />
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-125" value="外设初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="258" width="71" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
