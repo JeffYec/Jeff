@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T03:39:53.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dgPgQZG5r_U4DtEtSqUZ" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:41:12.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1jZgZ1n91sbWkV86_qrl" version="16.1.0" type="github">
   <diagram id="1CRwr2Rufhtn1Ta8XZuU" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-7" value="状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="307" width="97" height="49" as="geometry" />
+          <mxGeometry x="208" y="307" width="97" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-8" value="待机状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="559" width="44" height="44" as="geometry" />
