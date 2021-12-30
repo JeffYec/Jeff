@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T08:29:48.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MVlejn1IbnA7e_HhsayF" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T08:26:38.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="AgOrRu2z4rrAMDIYso10" version="16.1.0" type="github">
   <diagram id="0DxkU44QRCLPnqdfYfsU" name="Page-1">
-    <mxGraphModel dx="1497" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="379" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,54 +27,139 @@
           <mxGeometry x="468" y="159" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-77" value="重新上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399.5" y="628" width="71" height="34" as="geometry" />
+          <mxGeometry x="400.5" y="535" width="71" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-78">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="436" y="402" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-78" target="Le-07MOkWK7ZcGVVl3ep-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-78" value="应用功能初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="325" width="71" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-84" target="Le-07MOkWK7ZcGVVl3ep-86">
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-84" target="Le-07MOkWK7ZcGVVl3ep-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-84" value="事件处理线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400.5" y="402" width="71" height="34" as="geometry" />
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-84" value="用户线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="403" width="71" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-86" target="Le-07MOkWK7ZcGVVl3ep-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-86" target="Le-07MOkWK7ZcGVVl3ep-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-86" value="温度获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="464" width="71" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-87" target="Le-07MOkWK7ZcGVVl3ep-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-87" value="事件响应状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297" y="444" width="71" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-101" value="异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="468" y="493" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-107" value="正常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="495" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Le-07MOkWK7ZcGVVl3ep-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-109" target="Le-07MOkWK7ZcGVVl3ep-77">
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-109" target="Le-07MOkWK7ZcGVVl3ep-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-109" value="按键失效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="472" y="538" width="71" height="34" as="geometry" />
+          <mxGeometry x="277" y="535" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-113" value="蜂鸣器长鸣10s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="510.5" y="578" width="60" height="30" as="geometry" />
+          <mxGeometry x="349" y="505" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Le-07MOkWK7ZcGVVl3ep-125" value="外设初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="258" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-128" target="Le-07MOkWK7ZcGVVl3ep-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-128" target="Le-07MOkWK7ZcGVVl3ep-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="525" />
+              <mxPoint x="186" y="525" />
+              <mxPoint x="186" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-128" value="温度异常" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="465" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-136" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="277" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-140" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="188" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-141" target="Le-07MOkWK7ZcGVVl3ep-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-141" target="Le-07MOkWK7ZcGVVl3ep-155">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364" y="675" />
+              <mxPoint x="238" y="675" />
+              <mxPoint x="238" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-141" value="温度获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328.5" y="619" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-144" target="Le-07MOkWK7ZcGVVl3ep-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-144" value="按键失效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="695" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-149" value="正常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="257" y="639" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-150" value="异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="644" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-152" value="重新上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="785" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-154" value="蜂鸣器长鸣10s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="461" y="742" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-155" target="Le-07MOkWK7ZcGVVl3ep-157">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="742" />
+              <mxPoint x="188" y="742" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-155" target="Le-07MOkWK7ZcGVVl3ep-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="742" />
+              <mxPoint x="295" y="742" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-155" value="&lt;span&gt;是否有周定时&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="196" y="695" width="83" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-157" target="Le-07MOkWK7ZcGVVl3ep-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227.24635912024462" y="838.9709791100545" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="188" y="822" />
+              <mxPoint x="114" y="822" />
+              <mxPoint x="114" y="881" />
+              <mxPoint x="76" y="881" />
+              <mxPoint x="76" y="636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-157" value="手动/自动" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="148" y="761" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le-07MOkWK7ZcGVVl3ep-160" target="Le-07MOkWK7ZcGVVl3ep-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="824" />
+              <mxPoint x="359" y="824" />
+              <mxPoint x="359" y="885" />
+              <mxPoint x="538" y="885" />
+              <mxPoint x="538" y="636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-160" value="当前温度大于目标温度" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="257" y="761" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-163" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="802" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Le-07MOkWK7ZcGVVl3ep-165" value="手动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="802" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
