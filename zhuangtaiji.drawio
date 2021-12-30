@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T03:38:05.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OYavake98y2YaRdyeuaE" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:39:53.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dgPgQZG5r_U4DtEtSqUZ" version="16.1.0" type="github">
   <diagram id="1CRwr2Rufhtn1Ta8XZuU" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,6 +86,14 @@
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-13" value="自动模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555.88" y="417" width="52.75" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-15" target="KnodIHARpHvEZ9dMHLwk-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="669" y="476" />
+              <mxPoint x="727" y="476" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-15" value="手动模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="642" y="418" width="54.25" height="49" as="geometry" />
@@ -253,6 +261,9 @@
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-102" value="档位指示灯切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="288" y="492" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-107" value="保持当前工作档位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="496" width="44" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
