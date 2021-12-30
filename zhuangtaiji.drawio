@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T03:17:31.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bvZjI8t9VJL5vOvb1oYi" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:38:05.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OYavake98y2YaRdyeuaE" version="16.1.0" type="github">
   <diagram id="1CRwr2Rufhtn1Ta8XZuU" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,124 +32,147 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-7" value="状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="306" width="97" height="49" as="geometry" />
+          <mxGeometry x="249" y="307" width="97" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-8" value="待机状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="558" width="44" height="44" as="geometry" />
+          <mxGeometry x="528" y="559" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-9" target="KnodIHARpHvEZ9dMHLwk-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-9" value="配网状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2" y="414" width="58.75" height="49" as="geometry" />
+          <mxGeometry x="-79" y="415" width="58.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-10" target="KnodIHARpHvEZ9dMHLwk-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="127" y="477" />
-              <mxPoint x="95" y="477" />
+              <mxPoint x="50" y="478" />
+              <mxPoint x="18" y="478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-10" target="KnodIHARpHvEZ9dMHLwk-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="127" y="476" />
-              <mxPoint x="161" y="476" />
+              <mxPoint x="50" y="477" />
+              <mxPoint x="84" y="477" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-10" value="目标温度设置状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="414" width="53.75" height="49" as="geometry" />
+          <mxGeometry x="23" y="415" width="53.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-11" target="KnodIHARpHvEZ9dMHLwk-87">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="478" />
+              <mxPoint x="146" y="478" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="KnodIHARpHvEZ9dMHLwk-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-11" target="KnodIHARpHvEZ9dMHLwk-88">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-11" target="KnodIHARpHvEZ9dMHLwk-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="478" />
+              <mxPoint x="208" y="478" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-11" value="定时设置状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="414" width="53.75" height="49" as="geometry" />
+          <mxGeometry x="152" y="415" width="53.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-13" target="KnodIHARpHvEZ9dMHLwk-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-13" value="自动模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="632.88" y="416" width="52.75" height="49" as="geometry" />
+          <mxGeometry x="555.88" y="417" width="52.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-15" value="手动模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="719" y="417" width="54.25" height="49" as="geometry" />
+          <mxGeometry x="642" y="418" width="54.25" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-45" target="KnodIHARpHvEZ9dMHLwk-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="659" y="542" />
-              <mxPoint x="627" y="542" />
+              <mxPoint x="582" y="543" />
+              <mxPoint x="550" y="543" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740.5" y="560" as="targetPoint" />
+            <mxPoint x="663.5" y="561" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="659" y="542" />
-              <mxPoint x="741" y="542" />
+              <mxPoint x="582" y="543" />
+              <mxPoint x="664" y="543" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-45" value="当前温度大于目标温度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619.25" y="491" width="80" height="38" as="geometry" />
+          <mxGeometry x="542.25" y="492" width="80" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-49" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="597" y="519" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-52" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="674" y="517" width="60" height="30" as="geometry" />
+          <mxGeometry x="597" y="518" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-53" target="KnodIHARpHvEZ9dMHLwk-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="742" y="619" />
-              <mxPoint x="689" y="619" />
+              <mxPoint x="665" y="620" />
+              <mxPoint x="612" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KnodIHARpHvEZ9dMHLwk-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="742" y="604" as="sourcePoint" />
-            <mxPoint x="800" y="633" as="targetPoint" />
+            <mxPoint x="665" y="605" as="sourcePoint" />
+            <mxPoint x="723" y="634" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="742" y="619" />
-              <mxPoint x="800" y="619" />
+              <mxPoint x="665" y="620" />
+              <mxPoint x="723" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-53" value="定时执行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="702" y="560" width="80" height="49" as="geometry" />
+          <mxGeometry x="625" y="561" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-55" value="定时执行状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="638" width="44" height="44" as="geometry" />
+          <mxGeometry x="590" y="639" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-56" value="温度显示状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="778.25" y="638" width="44" height="44" as="geometry" />
+          <mxGeometry x="701.25" y="639" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="KnodIHARpHvEZ9dMHLwk-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-60" target="KnodIHARpHvEZ9dMHLwk-92">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-60" target="KnodIHARpHvEZ9dMHLwk-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="478" />
+              <mxPoint x="259" y="478" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-60" target="KnodIHARpHvEZ9dMHLwk-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="475" />
+              <mxPoint x="310" y="475" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-60" value="档位设置状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="414" width="57" height="49" as="geometry" />
+          <mxGeometry x="269" y="415" width="57" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-61" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="663" y="592" width="60" height="30" as="geometry" />
+          <mxGeometry x="586" y="593" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-62" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="762.25" y="592" width="60" height="30" as="geometry" />
+          <mxGeometry x="685.25" y="593" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-63" target="KnodIHARpHvEZ9dMHLwk-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-95" y="473" />
-              <mxPoint x="-151" y="473" />
+              <mxPoint x="-172" y="474" />
+              <mxPoint x="-228" y="474" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,68 +182,77 @@
         <mxCell id="KnodIHARpHvEZ9dMHLwk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-63" target="KnodIHARpHvEZ9dMHLwk-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-95" y="473" />
-              <mxPoint x="-39" y="473" />
+              <mxPoint x="-172" y="474" />
+              <mxPoint x="-116" y="474" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-63" value="待机状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-123" y="414" width="56" height="49" as="geometry" />
+          <mxGeometry x="-200" y="415" width="56" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-66" target="KnodIHARpHvEZ9dMHLwk-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="469" y="477" />
-              <mxPoint x="436" y="477" />
+              <mxPoint x="392" y="478" />
+              <mxPoint x="359" y="478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-66" target="KnodIHARpHvEZ9dMHLwk-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="469" y="476" />
-              <mxPoint x="494" y="476" />
+              <mxPoint x="392" y="477" />
+              <mxPoint x="417" y="477" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-66" value="定时执行状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="416" width="61" height="48" as="geometry" />
+          <mxGeometry x="361" y="417" width="61" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KnodIHARpHvEZ9dMHLwk-67" target="KnodIHARpHvEZ9dMHLwk-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-67" value="温度显示状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="529" y="416" width="60" height="50" as="geometry" />
+          <mxGeometry x="452" y="417" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-72" value="继电器关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-173" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="-250" y="494" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-73" value="开关灯状态设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-117" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="-194" y="494" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-74" value="断码屏熄灭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-61" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="-138" y="494" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-79" value="配网灯状态设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4" y="491" width="44" height="44" as="geometry" />
+          <mxGeometry x="-73" y="492" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-82" value="断码屏闪烁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="62" y="494" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-83" value="℃单位指示灯设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="-4" y="494" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-87" value="℃单位指示灯设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="124" y="494" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-88" value="断码屏闪烁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="267" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="186" y="492" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-92" value="档位指示灯切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="495" width="44" height="44" as="geometry" />
+          <mxGeometry x="237" y="492" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-94" value="断码屏闪烁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="495" width="44" height="44" as="geometry" />
+          <mxGeometry x="394" y="494" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KnodIHARpHvEZ9dMHLwk-96" value="℃/h单位指示灯切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="493" width="44" height="44" as="geometry" />
+          <mxGeometry x="339" y="494" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-100" value="断码屏常亮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="496" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="KnodIHARpHvEZ9dMHLwk-102" value="档位指示灯切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="492" width="44" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
