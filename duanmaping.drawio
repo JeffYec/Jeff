@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T13:22:17.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZUsAHHbrxFFpS0Y9WOo_" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T01:58:34.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="u_p0RUb9pPCt-HXx-rO1" version="16.1.0" type="github">
   <diagram id="NBrz6A2Zbq-XDGS4xQ-9" name="Page-1">
     <mxGraphModel dx="1422" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="N9chxuBh4ZY3HbkzLcWX-4" value="温度设置状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="574" width="97" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="N9chxuBh4ZY3HbkzLcWX-5" value="定数设置状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N9chxuBh4ZY3HbkzLcWX-5" value="定时设置状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403" y="574" width="97" height="49" as="geometry" />
         </mxCell>
         <mxCell id="N9chxuBh4ZY3HbkzLcWX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N9chxuBh4ZY3HbkzLcWX-6" target="N9chxuBh4ZY3HbkzLcWX-17">
