@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T02:54:11.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="39fyG6ehOaUTXf39gTRL" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T02:54:55.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="k7CG3yUVutLgv52PSXMc" version="16.5.6" type="github">
   <diagram id="LEmtDCH_rk8Sx9dJpY-e" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjUwBBqmj47gVqZh7mE5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZpJ0VBWsio0nk-9sUjNW-1" target="ZpJ0VBWsio0nk-9sUjNW-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="551" y="399" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DjUwBBqmj47gVqZh7mE5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZpJ0VBWsio0nk-9sUjNW-1" target="DjUwBBqmj47gVqZh7mE5-1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +30,7 @@
           <mxGeometry x="244" y="291" width="75" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZpJ0VBWsio0nk-9sUjNW-3" value="蜂鸣器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="512" y="442.25" width="78" height="40" as="geometry" />
+          <mxGeometry x="512" y="440.25" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZpJ0VBWsio0nk-9sUjNW-4" value="工作指示灯" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="244" y="443.5" width="75" height="37.5" as="geometry" />
